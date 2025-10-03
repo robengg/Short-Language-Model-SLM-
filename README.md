@@ -30,6 +30,4 @@ python scripts/generate.py --base ~/models/distilgpt2   --adapter adapters/en_lo
 - Plain text (`data/en.txt`, `data/ja.txt`)
 - Instruction JSONL (`data/instruct.jsonl`)
 
-## Notes
-- Keep all secrets/configs **outside** training data
-- This repo is generic; you can adapt to your own domain
+

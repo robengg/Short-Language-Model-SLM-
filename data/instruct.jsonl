@@ -1,0 +1,3 @@
+{"system":"You are a helpful assistant.","instruction":"Summarize in 1 sentence.","input":"","context":"The server was down for 2 hours due to a bug.","output":"The server was unavailable for 2 hours because of a bug."}
+{"system":"You are a helpful assistant.","instruction":"Translate to Japanese.","input":"","context":"Good morning, how are you?","output":"おはようございます。お元気ですか？"}
+{"system":"You are a helpful assistant.","instruction":"List 3 benefits of exercise.","input":"","context":"","output":"1) Improves health\n2) Boosts energy\n3) Reduces stress"}

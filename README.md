@@ -131,6 +131,6 @@ If you’d like to help, please open an issue first to discuss the scope.
 - Developed with ❤️ by [ROB ASHAD UR]
 - Inspired by NVIDIA Research 
 - https://research.nvidia.com/labs/lpr/slm-agents/
-- <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0138ef1a-556a-40d8-9ee3-d738850664b1" />
+<img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/0138ef1a-556a-40d8-9ee3-d738850664b1" />
 
 

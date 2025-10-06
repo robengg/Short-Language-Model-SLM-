@@ -129,3 +129,7 @@ If you’d like to help, please open an issue first to discuss the scope.
 - Inspired by the open-source ML community (Hugging Face, FAISS, SentenceTransformers)  
 - Built for research, learning, and CPU-only environments  
 - Developed with ❤️ by [ROB ASHAD UR]
+- Inspired by NVIDIA Research 
+- https://research.nvidia.com/labs/lpr/slm-agents/
+<img width="423" height="35" alt="image" src="https://github.com/user-attachments/assets/e0ed6b35-5517-442f-9054-b5ac8ef9ba65" />
+
